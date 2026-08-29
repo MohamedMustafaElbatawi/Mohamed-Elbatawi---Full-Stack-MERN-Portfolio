@@ -97,8 +97,8 @@ function Hero() {
           <div className="relative">
             <div className="absolute inset-0 rounded-full border border-cyan-500/20" />
             <img
-              // src="../../public/img/IMG_5881.JPG.jpeg"
-              src="../../public/img/IMG_6168.PNG"
+              // src="../../public/img/IMG_6168.PNG"
+              src="/img/IMG_6168.PNG"
               alt={personalInfo.name}
               className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border border-slate-800 shadow-2xl relative z-10"
             />
