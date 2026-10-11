@@ -1,4 +1,4 @@
-export const personalInfo = {
+--export const personalInfo = {
   name: "Mohamed Mostafa",
   bio: "I build modern, scalable, and user-friendly full-stack web applications for startups, businesses, and digital products..",
   email: "mohamedelbatawi93@gmail.com",
@@ -135,16 +135,14 @@ export const projects = [
     link: "https://luxury-car-marketplace-mu.vercel.app/",
   },
   {
-    title: "Clinic Pro Dashboard",
+    title: "Clinic Management System",
     description:
-      "Modern and responsive clinic management system for managing patients, appointments, users, and daily clinic operations.",
-    tech: ["HTML5", "CSS3", "JavaScript", "Font Awesome"],
-    category: "html-css-js",
-    // image: "img/Project/special-design.png",
-    image: "/img/Screenshot 2026-08-20 234132.jpg",
-    github: "https://github.com/MohamedMustafaElbatawi/clinic-pro-dashboard  ",
-    link: "  https://clinic-pro-dashboard.vercel.app/",
-    // link: "https://special-design-js.netlify.app",
+      "A full-stack clinic management system for managing appointments, patients, doctors, inventory, and financial operations.{admin@clinic.com =>Admin123}",
+    tech: ["React", "Vite", "Node.js", "Express", "MongoDB"],
+    category: "Full Stack",
+    image: "/img/clinic .jpg",
+    github: "https://github.com/MohamedMustafaElbatawi",
+    link: "https://clinic-management-system-2026-liard.vercel.app/login",
   },
   {
     title: "Website Store",
@@ -236,6 +234,18 @@ export const projects = [
     image: "/img/Screenshot 2026-08-22 204158.jpg",
     github: "https://github.com/MohamedMustafaElbatawi/blue-ecommerce-main",
     link: "https://mohamedmustafaelbatawi.github.io/blue-ecommerce-main/",
+  },
+   {
+    title: "Clinic Pro Dashboard",
+    description:
+      "Modern and responsive clinic management system for managing patients, appointments, users, and daily clinic operations.",
+    tech: ["HTML5", "CSS3", "JavaScript", "Font Awesome"],
+    category: "html-css-js",
+    // image: "img/Project/special-design.png",
+    image: "/img/Screenshot 2026-08-20 234132.jpg",
+    github: "https://github.com/MohamedMustafaElbatawi/clinic-pro-dashboard  ",
+    link: "  https://clinic-pro-dashboard.vercel.app/",
+    // link: "https://special-design-js.netlify.app",
   },
   // edit All
 
