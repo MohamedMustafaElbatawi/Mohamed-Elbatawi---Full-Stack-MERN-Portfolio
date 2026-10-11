@@ -1,4 +1,4 @@
---export const personalInfo = {
+export const personalInfo = {
   name: "Mohamed Mostafa",
   bio: "I build modern, scalable, and user-friendly full-stack web applications for startups, businesses, and digital products..",
   email: "mohamedelbatawi93@gmail.com",
